@@ -1,6 +1,6 @@
 # SLATE
 
-**Sparse Lightweight Additive Threshold Ensemble**, a tiny, fully interpretable multinomial classifier.
+**Sparse Lightweight Additive Threshold Ensemble**, tiny, for Explainable and Constant-Time Classification on Tiny Devices
 
 
 ## Files
